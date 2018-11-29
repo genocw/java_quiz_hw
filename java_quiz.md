@@ -8,7 +8,7 @@ What does it mean when we apply polymorphism to OO design? Give a simple Java ex
 IF WE HAVE A CLASS Athlete, WHICH HAS CHILD CLASSES Swimmer AND Runner. Runner IMPLEMENTS THE IRun INTERFACE, ALONG WITH OTHER NON-ATHLETE CLASSES THAT HAVE THE ABILITY TO RUN. A Runner THEREFOR CAN BE AN INSTANCE OF Athlete, Runner OR IRun.
 
 What can we use to implement polymorphism in Java?
-INHERITANCE AND INTERFACES
+ABSTRACT CLASSES (INHERITANCE) AND INTERFACES
 
 How many 'forms' can an object take when using polymorphism?
 INFINITE
